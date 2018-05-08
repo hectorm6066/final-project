@@ -7,3 +7,18 @@
 #what{
     padding: 75px
 }
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(img/download-1.jpg);
+    background-position: 0% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    font-family: Lobster; 
+    font-size: 48;
+}
+
+
+
+
