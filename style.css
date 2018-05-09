@@ -1,25 +1,73 @@
 #effects{
-    padding: 75px
+    padding: 75px;
+    font-family:Skranji;
+    font-size:18px;
 }
 #help{
-    padding: 75px
+    padding: 75px;
+    font-family:Skranji;
+    font-size:18px;
 }
 #what{
     padding: 75px
 }
-#gallery{
-    padding:100px;
-}
+
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(img/download-1.jpg);
+    background-image: url(img/image1.png);
     background-position: 0% 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    color:white;
+    color:White;
     font-family: Lobster; 
-    font-size: 48;
+    font-size:48px;
 }
+
+
+
+
+#whatis{
+    color:Green;
+    font-family: Lobster;
+    font-size:48px;
+}
+
+#contact{
+    padding:50px;
+    font-family: Lobster;
+    font-size: 18px;
+    padding-right:71px;
+    padding-left:71px;
+}
+
+#Whatis{
+    font-family: Lobster;
+    font-size: 48px;
+    color:green;
+}
+
+#Gal{
+    font-family: Lobster;
+    font-size: 48px;
+}
+
+#youcan{
+    font-family: Lobster;
+    font-size: 33px;
+    color:green;
+}
+
+#img{
+    padding-right:10px ;
+     padding-left:10px ;
+     padding-top:10px;
+}
+
+#wow{
+    font-family:Skranji;
+    font-size:18px;
+}
+
 
 
 
