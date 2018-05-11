@@ -22,8 +22,10 @@
     font-family: Lobster; 
     font-size:48px;
 }
-
-
+.navbarAnchor{
+    padding-top: 110px;
+    margin-bottom: -80px;
+}
 
 
 #whatis{
@@ -33,12 +35,12 @@
 }
 
 #contact{
-    padding:50px;
+    padding:30px;
     font-family: Lobster;
     font-size: 18px;
     padding-right:71px;
     padding-left:71px;
-    padding-top: 120px
+    padding-top: 70px
 }
 
 #Whatis{
