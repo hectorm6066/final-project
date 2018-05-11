@@ -1,10 +1,10 @@
 #effects{
-    padding: 75px;
     font-family:Skranji;
     font-size:18px;
+    padding-bottom: 10px
 }
 #help{
-    padding: 75px;
+    padding: 60px;
     font-family:Skranji;
     font-size:18px;
 }
@@ -23,8 +23,8 @@
     font-size:48px;
 }
 .navbarAnchor{
-    padding-top: 110px;
-    margin-bottom: -80px;
+    padding-top: 100px;
+    margin-bottom: -10px;
 }
 
 
